@@ -14,7 +14,7 @@ library(plotly)
 library(Metrics)
 
 #Read the data from csv file
-insurance <- read.csv("C://Users//DELL//Desktop//Mtech DS//Finance//Project//insurance.csv",stringsAsFactors = FALSE)
+insurance <- read.csv("~//insurance.csv",stringsAsFactors = FALSE)
 
 #View the imported file
 view(insurance)
